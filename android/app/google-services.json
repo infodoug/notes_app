@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "971249813333",
+    "project_id": "firenotes-bc865",
+    "storage_bucket": "firenotes-bc865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971249813333:android:a5dbf78bb2f3644df891dc",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOorguQ_-cuwxn7MXptAeqF3uF-3J9ZBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
